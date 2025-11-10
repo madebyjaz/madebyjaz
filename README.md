@@ -144,22 +144,21 @@ I guess you could say it's <em> <b>in my programming</b></em> 😉😂
 
 ### 📊 GitHub Stats
 
+<!-- Original Method to show contribution stats was not rendering on the file -->
+![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=madebyjaz)
+
+
 <div align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=madebyjaz&theme=radical&layout=compact" alt="madebyjaz GitHub Contributions" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madebyjaz&layout=compact&theme=radical&langs_count=20" alt="Top Langs" />
 </div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madebyjaz&theme=radical" alt="Hoang Son's GitHub Achievements" />
 </div>
 
-<!--
+<!-- -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=madebyjaz&theme=radical" alt="madebyjaz GitHub Streak" />
-</div>
--->
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madebyjaz&layout=compact&theme=radical&langs_count=20" alt="Top Langs" />
 </div>
 
 
