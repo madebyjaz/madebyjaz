@@ -144,8 +144,8 @@ I guess you could say it's <em> <b>in my programming</b></em> 😉😂
 
 ### 📊 GitHub Stats
 
-<!-- Original Method to show contribution stats was not rendering on the file -->
-![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=madebyjaz)
+<!-- Original Method to show contribution stats was not rendering on the file 
+![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=madebyjaz)-->
 
 
 <div align="center">
